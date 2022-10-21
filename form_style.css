@@ -1,0 +1,141 @@
+#header {
+  background-color: antiquewhite;
+  font-size: 20px;
+  display: block;
+  width: fit-content;
+  align-items: ;
+}
+
+#search {
+  border-radius: 50px;
+  width: 80%;
+  background-color: bisque;
+  justify-content: center;
+
+}
+
+#search_label {
+  padding-left: 50px;
+}
+
+form {
+  padding: 10px 30% 0;
+  border: solid #0ed8a2 3px;
+  background-color: black;
+}
+
+#user {
+  border-radius: 20px;
+  border-color: red;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+.username {
+  display: block;
+  font-size: 20px;
+  color: rgb(16, 159, 199);
+  padding: auto;
+}
+
+
+#password {
+  border-radius: 20px;
+  border-color: red;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+.password {
+  display: block;
+  font-size: 20px;
+  color: rgb(16, 159, 199);
+  padding: auto;
+
+}
+
+#email {
+  border-radius: 20px;
+  border-color: red;
+  font-size: 20px;
+  margin-left: 28px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+.email {
+  display: block;
+  font-size: 20px;
+  color: rgb(16, 159, 199);
+  padding: auto;
+
+}
+
+#date {
+  border-radius: 20px;
+  border-color: red;
+  font-size: 20px;
+  margin-left: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.date {
+  display: block;
+  font-size: 20px;
+  color: rgb(16, 159, 199);
+  padding: auto;
+}
+
+#time {
+  border-radius: 20px;
+  border-color: red;
+  font-size: 20px;
+  margin-left: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.time {
+  display: block;
+  font-size: 20px;
+  color: rgb(16, 159, 199);
+  padding: auto;
+}
+
+#submet {
+  border-radius: 20px;
+  border-color: rgb(255, 206, 8);
+  font-size: 20px;
+  margin-left: 23px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.submet {
+  display: block;
+  font-size: 20px;
+  color: rgb(17, 225, 35);
+  padding: auto;
+}
+
+#reset {
+  border-radius: 20px;
+  border-color: rgb(255, 206, 8);
+  font-size: 20px;
+  margin-left: 41px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.reset {
+  display: block;
+  font-size: 20px;
+  color: #ff0000;
+  padding: auto;
+}
