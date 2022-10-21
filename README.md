@@ -1,2 +1,2 @@
-# osama-
+# osama
 This is my Digital CV
